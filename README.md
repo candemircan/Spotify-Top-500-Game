@@ -40,6 +40,5 @@ Then you need to run `scrape_top_songs.ipynb`, `generate_qr_codes.ipynb` and `ma
 
 Once you have your prints, you need to cut each tile and stick the corresponding qr and number pairs against each other. I just cut them using a pair of scissors and patched them together using photograph tape. It was quite tedious, and I'm sure there must be a smarter way to do this 😅
 
-[^1] : "a game I made up" is maybe too strong. There is this game called hitster where you try to rank cards based on when the songs were released, which is what gave me this idea. There was also a similar history game I once played, but I haven't found it since.
-
-[^2] : Teams of one work too :D
+[^1]: "a game I made up" is maybe too strong. There is this game called hitster where you try to rank cards based on when the songs were released, which is what gave me this idea. There was also a similar history game I once played, but I haven't found it since.
+[^2]: Teams of one work too :D
