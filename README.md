@@ -34,7 +34,7 @@ First install the dependencies.
 pip install -r requirements.txt
 ```
 
-Then you need to run `scrape_top_songs.ipynb`, `generate_qr_codes.ipynb` and `make_tr_tiles.ipynb`, and you need to run them in that order. Some example outputs are shown at the top of the readme. The notebooks are decently documented, so if you want to change anything around, it should be easy. I use the colours defined in `colours.json` in the qr codes, which are taken from [here](https://github.com/sarraahr/limonata-colors). You want to print the images that are generated in the `grids` folder. If you print them directly on 10cm by 15cm paper, it works quite well.
+Then you need to run `scrape_top_songs.ipynb`, `generate_qr_codes.ipynb` and `make_tr_tiles.ipynb` in that order. Some example outputs are shown at the top of the readme. The notebooks are decently documented, so if you want to change anything around, it should be easy. I use the colours defined in `colours.json` in the qr codes, which are taken from [here](https://github.com/sarraahr/limonata-colors). You want to print the images that are generated in the `grids` folder. If you print them directly on 10cm by 15cm paper, it works quite well.
 
 ### manual craft
 
